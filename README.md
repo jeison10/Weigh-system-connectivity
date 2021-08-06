@@ -21,4 +21,4 @@ You must install the latest version of node-red on you PC or raspberry pi. After
 
 ##  License <h2>
 
-Unfortunately is  a commercial projects developed for a company, so I cannot offer the whole C project code. The RS232.C is the file of the project responsible to make the interface between the rest of the entire code and the node-red code. I hope It might help you guys offering you a good example of how good this tool might be on your projects.  
+Unfortunately it is  a commercial projects developed for a company, so I cannot offer the whole C project code. The RS232.C is the file of the project responsible to make the interface between the rest of the entire code and the node-red code. I hope It might help you guys offering you a good example of how good this tool might be on your projects.  
