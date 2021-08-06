@@ -1,7 +1,7 @@
 # Weigh-system-connectivity
 Node-red platform with dashboard and a Raspberry pi for remote controlling a weigh system
 
-The project was firstly based on a PIC 18F controller, which is able to weigh ration for houses inside a poultry farm. This new system developed to avoid having to go in front of controller every time you wanted to start and control the process. 
+The project was firstly based on a PIC 18F controller, which is able to weigh ration for houses inside a poultry farm. This new system was developed to avoid having to go in front of controller every time you wanted to start and control the process. 
 Using the node-red platform with dashboard and a Raspberry pi, users are able to visualize the whole process inside a local network. The interface between the controller and the Raspberry was made over serial connection .
 
 ![1](https://user-images.githubusercontent.com/43612824/128532975-1a4b8930-be23-4fa4-aaad-bb10819a0962.jpg)
