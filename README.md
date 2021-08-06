@@ -17,6 +17,7 @@ You must install the latest version of node-red on you PC or raspberry pi. After
 * telegram
 * ui-table 
 
+ To compile the .C file you need the whole project and the CCS compiler. Mplab 8.92 was the IDE used for the PIC project
 
 ##  License <h2>
 
